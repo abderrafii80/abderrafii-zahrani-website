@@ -618,6 +618,9 @@ section{
     .home{
         background: url('images/photoweb.png') no-repeat;
     }
+    .home-social{
+        bottom: 5rem;
+    }
     .navbar{
         position: absolute;
         top: 100%;
