@@ -615,9 +615,9 @@ section{
     #menu-icons{
         display: block;
     }
-    .home{
+/*     .home{
         background: url('images/photoweb.png') no-repeat;
-    }
+    } */
     .home-social{
         bottom: 5rem;
     }
@@ -646,6 +646,14 @@ section{
     
 
    
+}
+
+@media(max-width < 700px){
+   
+
+    .home-social{
+        top: 620px;
+    }
 }
 
 
