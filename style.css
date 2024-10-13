@@ -515,7 +515,7 @@ section{
 
 .project-content{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, auto));
+    grid-template-columns: repeat(auto-fit, minmax(350px, auto));
     align-items: center;
     gap: 2.3rem;
     margin-top: 4.2rem;
@@ -563,7 +563,7 @@ section{
 }
 
 .row h4{
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 700;
     margin-bottom: 10px;
     line-height: 1.4;
