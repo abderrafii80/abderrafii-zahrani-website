@@ -515,7 +515,7 @@ section{
 
 .project-content{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, auto));
+    grid-template-columns: repeat(auto-fit, minmax(400px, auto));
     align-items: center;
     gap: 2.3rem;
     margin-top: 4.2rem;
